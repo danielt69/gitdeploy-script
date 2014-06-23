@@ -1,0 +1,9 @@
+{
+    "Hooks":[
+        {
+            "Repo":"lagas",
+            "Branch":"master",
+            "Shell":"/home/bitnami/apps/gohub/deploy.sh"
+        }
+    ]
+}
